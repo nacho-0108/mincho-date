@@ -7,15 +7,15 @@ export default function Home() {
 
     <main className={styles.main}>
       <div className={styles.center}>
-          <div>click the mincho icecream!</div>
-          <div className={styles.buttonList}>
+          <div className={styles.question}>click the mincho icecream...</div>
+          <div>
               <Link href="/page1">
                   <div className={styles.mincho}><Image
                       unoptimized={true}
                       src="./mincho.png"
                       alt="mincho"
-                      width={300}
-                      height={300}
+                      width={200}
+                      height={200}
                       priority
                   /></div>
               </Link>

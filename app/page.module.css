@@ -3,12 +3,9 @@
   text-align: center;
   width: 100%;
   min-height: 100vh;
+  font-family: serif;
 }
 
-.code {
-  font-weight: 700;
-  font-family: var(--font-mono);
-}
 
 .grid {
   display: grid;

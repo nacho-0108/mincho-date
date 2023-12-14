@@ -5,10 +5,10 @@ export default function Page3() {
     return (
         <main className={styles.main}>
             <div className={styles.center}>
-                <div className={styles.question}>aww yayayay gcal rn!</div>
+                <div className={styles.question}>awww yay!! gcal rn!!</div>
                 <div><Image
                     unoptimized={true}
-                    src="./chu-cat.gif"
+                    src="./chu.gif"
                     alt="chu cat gif"
                     width={180}
                     height={150}
